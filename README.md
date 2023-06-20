@@ -8,7 +8,7 @@ Apaixonada por treinamento e atividades físicas me formei em educação física
 Já tenho experiência em front end, com as tecnologias JavaScript e Vue, que foram adquiridas durante o estágio da graduação, agora estou em busca de mais conhecimentos principalmente em back end visando o desenvolvimento full stack! 
 
 
-No momento estou estudando java :hearts::coffee: 
+No momento tenho me dedicado ao estudo de java :hearts::coffee: 
 
 ##### Linguagens Utilizadas:
 
