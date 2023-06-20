@@ -1,6 +1,6 @@
 ### Olá! :) 
     
-#### Sobre mim
+#### Sobre mim:
 
 Apaixonada por treinamento e atividades físicas me formei em educação física em 2015, mas minha paixão por tecnologia não pode ser ignorada(rs), então com todo entusiasmo de uma pessoa que ama aprender e realizar sonhos, também me graduei em análise e desenvolvimento de sistemas em 2022.
 
@@ -10,11 +10,11 @@ Já tenho experiência em front end, com as tecnologias JavaScript e Vue, que fo
 
 No momento estou estudando java :hearts::coffee: 
 
-##### Linguagens Utilizadas
+##### Linguagens Utilizadas:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucimararocha872&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-##### Contatos
+##### Contato:
 
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucimararocha872/)
 
