@@ -2,10 +2,10 @@
     
 #### Sobre mim:
 
-Apaixonada por treinamento e atividades físicas me formei em educação física em 2015, mas minha outra grande paixão por tecnologia não pode ser ignorada(rs), então com todo entusiasmo de uma pessoa que ama aprender e realizar sonhos, também me graduei em análise e desenvolvimento de sistemas em 2022.
+Apaixonada por treinamento e atividades físicas me formei em Educação Física em 2015, mas minha outra grande paixão por tecnologia não pode ser ignorada(rs), então com todo entusiasmo de uma pessoa que ama aprender e realizar sonhos, também me graduei em Análise e Desenvolvimento de Sistemas em 2022.
 
 
-Já tenho experiência em front end, com as tecnologias JavaScript e Vue, que foram adquiridas durante o estágio da graduação, agora estou em busca de mais conhecimentos principalmente em back end visando o desenvolvimento full stack! 
+Já tenho experiência em front end, com as tecnologias HTML5, CSS3, JavaScript, Vue e Jest que foram adquiridas durante o estágio da graduação, agora estou em busca de mais conhecimentos principalmente em back end visando o desenvolvimento full stack! 
 
 
 No momento tenho me dedicado ao estudo de java :hearts::coffee: 
