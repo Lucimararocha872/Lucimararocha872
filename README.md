@@ -1,8 +1,6 @@
 ### Hello World! :alien:
     
-#### Sobre mim:
-
-Apaixonada por treinamento e atividades físicas me formei em Educação Física em 2015, mas minha outra grande paixão por tecnologia não pode ser ignorada(rs), então com todo entusiasmo de uma pessoa que ama aprender e realizar sonhos, também me graduei em Análise e Desenvolvimento de Sistemas em 2022.
+Sou apaixonada por treinamento e atividades físicas me formei em Educação Física em 2015, mas minha outra grande paixão por tecnologia não pode ser ignorada(rs), então com todo entusiasmo de uma pessoa que ama aprender e realizar sonhos, também me graduei em Análise e Desenvolvimento de Sistemas em 2022.
 
 
 Já tenho experiência em front end, com as tecnologias HTML5, CSS3, JavaScript, Vue e Jest que foram adquiridas durante o estágio da graduação, agora estou concluindo o curso de Desenvolvimento completo do professor Nélio Alves, visando o desenvolvimento full stack! 
