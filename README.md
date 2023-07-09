@@ -7,7 +7,7 @@ Apaixonada por treinamento e atividades físicas me formei em Educação Física
 
 Já tenho experiência em front end, com as tecnologias HTML5, CSS3, JavaScript, Vue e Jest que foram adquiridas durante o estágio da graduação, agora estou concluindo o curso de Desenvolvimento completo do professor Nélio Alves, visando o desenvolvimento full stack! 
 
-No momento tenho me dedicado ao estudo de java :hearts::coffee: 
+No momento tenho me dedicado bastante ao estudo de java :hearts::coffee: 
 
 ##### Linguagens Utilizadas:
 
