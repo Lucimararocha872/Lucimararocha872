@@ -1,6 +1,6 @@
 ### Hello World! :alien:
     
-Me graduei em Análise e Desenvolvimento de Sistemas em 2022.
+Me graduei em Análise e Desenvolvimento de Sistemas em 2023.
 
 Já tenho experiência em front end, com as tecnologias HTML5, CSS3, JavaScript, Vue e Jest que foram adquiridas durante o estágio da graduação, agora estou concluindo o curso de Desenvolvimento completo do professor Nélio Alves, visando aumentar minhas competências para o desenvolvimento full stack! 
 
