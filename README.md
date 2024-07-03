@@ -10,9 +10,7 @@ No momento tenho me dedicado bastante ao estudo de java :hearts::coffee:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucimararocha872&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-##### Contato:
 
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height='30'>](https://www.linkedin.com/in/lucimararocha872/)
 
 <!--
 **Lucimararocha872/Lucimararocha872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
