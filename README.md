@@ -4,7 +4,7 @@ I work with and love technology; currently I work more in DevOps, but I also hav
 
 I love learning new things, and my challenge is overcoming the lack of time to study and practice so many interesting things :computer: :smirk:
 
-##### Languages:
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucimararocha872&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
