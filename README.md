@@ -1,12 +1,10 @@
 ### Hello World! :alien:
     
-Me graduei em Análise e Desenvolvimento de Sistemas em 2023.
+I work with and love technology; currently I work more in DevOps, but I also have experience in full-stack development.
 
-Já tenho experiência em front end, com as tecnologias HTML5, CSS3, JavaScript, Vue e Jest que foram adquiridas durante o estágio da graduação, agora estou concluindo o curso de Desenvolvimento completo do professor Nélio Alves, visando aumentar minhas competências para o desenvolvimento full stack! 
+I love learning new things, and my challenge is overcoming the lack of time to study and practice so many interesting things :computer: :smirk:
 
-No momento tenho me dedicado bastante ao estudo de java :hearts::coffee: 
-
-##### Linguagens Utilizadas:
+##### Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucimararocha872&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
