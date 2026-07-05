@@ -1,26 +1,11 @@
-### Hello World! :alien:
-    
-I work with and love technology; currently I work more in DevOps, but I also have experience in full-stack development.
+## ☁️ Hi there, I'm Lu! 🚀
 
-I love learning new things, and my challenge is overcoming the lack of time to study and practice so many interesting things :computer: :smirk:
+I'm a **DevOps Engineer** at Toolbox Tech, currently delivering high-impact meanly on infrastructure and development solutions for clients. I am passionate about automation, continuous delivery, and building reliable, scalable cloud environments, ever following Devops culture. 
 
+### 🛠️ Tech Stack & Skills:
+*   **Cloud Infrastructure:** Azure & Google Cloud Platform (GCP).
+*   **IaC & Orchestration:** Writing modular infrastructure with Terraform and managing workloads with Kubernetes.
+*   **CI/CD Pipelines:** Designing and automating pipelines using GitHub Actions.
+*   **Core Focus:** Delivering clean architecture, optimizing workflows, and writing documentation that actually makes sense.
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucimararocha872&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-<!--
-**Lucimararocha872/Lucimararocha872** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...      
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💬 Driven by discipline, continuous learning (currently leveling up my English), early morning workouts, and powered by feline energy. 🐱
